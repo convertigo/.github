@@ -4,7 +4,7 @@
 
 Convertigo is an AI-driven, self hostable full-stack platform for building, integrating and deploying enterprise web, mobile and desktop applications.
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/convertigo?logo=docker&label=Docker%20pulls)](https://hub.docker.com/_/convertigo)
+[![Docker Pulls](https://img.shields.io/docker/pulls/library/convertigo?logo=docker&label=Docker%20pulls)](https://hub.docker.com/_/convertigo)
 
 It combines:
 
